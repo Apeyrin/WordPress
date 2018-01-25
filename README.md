@@ -6,7 +6,7 @@ L'url pour pouvoir vous connecter à votre site est : http://<siteurl>/wp-admin
 
 Pass
 -
-kaskwoute : kaskwoute -> admin
+kaskwoute : kaskwoute -> admin ///
 client : 0000 -> client
 
 Page Accueil 
